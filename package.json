@@ -8,11 +8,12 @@
     "name": "Asapdotid",
     "email": "asapdotid@gmail.com"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/asapdotid/manjaro-vscode-themes.git"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.78.0"
   },
