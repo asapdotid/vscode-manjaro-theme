@@ -11,9 +11,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asapdotid/manjaro-vscode-themes.git"
+    "url": "https://github.com/asapdotid/vscode-manjaro-themes.git"
   },
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.78.0"
   },

@@ -1,4 +1,4 @@
-# Manjaro Dark
+# Manjaro Dark Themes for (VSCode or VSCodium)
 
 Color base from Manjaro Linux Color Palette (i3)
 
@@ -33,7 +33,7 @@ Color base from Manjaro Linux Color Palette (i3)
 
 ## License
 
-MIT GNU GENERAL PUBLIC LICENSE
+MIT LICENSE
 
 ## Author Information
 
