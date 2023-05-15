@@ -14,7 +14,7 @@ Inspired from:
 
 <h1 align="center">
   <br>
-    <img src="resources/captures/manjaro-dark-onedark.png" alt="manjaro-dark-onedark" width="800">
+    <img src="https://i.imgur.com/C0Y3Odf.png" alt="manjaro-dark-onedark" width="800">
   <br><br>
   Manjaro Dark OneDark
   <br>
@@ -23,7 +23,7 @@ Inspired from:
 
 <h1 align="center">
   <br>
-    <img src="resources/captures/manjaro-dark-nord.png" alt="manjaro-dark-nord" width="800">
+    <img src="https://i.imgur.com/9ICe3Z8.png" alt="manjaro-dark-nord" width="800">
   <br><br>
   Manjaro Dark Nord
   <br>
@@ -32,7 +32,7 @@ Inspired from:
 
 <h1 align="center">
   <br>
-    <img src="resources/captures/manjaro-dark-owl.png" alt="manjaro-dark-owl" width="800">
+    <img src="https://i.imgur.com/7FdVkqA.png" alt="manjaro-dark-owl" width="800">
   <br><br>
   Manjaro Dark Owl
   <br>
@@ -41,7 +41,7 @@ Inspired from:
 
 <h1 align="center">
   <br>
-    <img src="resources/captures/manjaro-dark-tokyo.png" alt="manjaro-dark-tokyo" width="800">
+    <img src="https://i.imgur.com/p2DDyCS.png" alt="manjaro-dark-tokyo" width="800">
   <br><br>
   Manjaro Dark Tokyo
   <br>
@@ -50,7 +50,7 @@ Inspired from:
 
 <h1 align="center">
   <br>
-    <img src="resources/captures/manjaro-dark-halcyon.png" alt="manjaro-dark-halcyon" width="800">
+    <img src="https://i.imgur.com/RKEEPvd.png" alt="manjaro-dark-halcyon" width="800">
   <br><br>
   Manjaro Dark Halcyon
   <br>

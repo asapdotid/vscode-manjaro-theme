@@ -2,7 +2,7 @@
   "name": "manjaro-dark",
   "displayName": "Manjaro Dark",
   "description": "Manjaro themes based on Owl, OneDark Pro and Nord",
-  "icon": "resources/icon.png",
+  "icon": "icon.png",
   "publisher": "Asapdotid",
   "author": {
     "name": "Asapdotid",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/asapdotid/vscode-manjaro-themes.git"
   },
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.78.0"
   },
