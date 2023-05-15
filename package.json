@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/asapdotid/vscode-manjaro-themes.git"
   },
-  "version": "0.0.7",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -36,6 +36,16 @@
         "label": "Manjaro Nord",
         "uiTheme": "vs-dark",
         "path": "./themes/manjaro-nord-color-theme.json"
+      },
+      {
+        "label": "Manjaro Tokyo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manjaro-tokyo-color-theme.json"
+      },
+      {
+        "label": "Manjaro Halcyon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manjaro-halcyon-color-theme.json"
       }
     ]
   }
