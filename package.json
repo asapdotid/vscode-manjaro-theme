@@ -20,6 +20,12 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "theme",
+    "manjaro",
+    "color-theme"
+  ],
   "contributes": {
     "themes": [
       {
