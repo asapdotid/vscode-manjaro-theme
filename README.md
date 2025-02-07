@@ -1,6 +1,6 @@
-# Manjaro Dark Themes for (VSCode or VSCodium)
+# Manjaro Cool and Dark Themes for (VSCode or VSCodium)
 
-Color base from Manjaro Linux Color Palette (i3)
+Color base from Manjaro Linux Color Palette (i3 & Sway)
 
 Inspired from:
 
