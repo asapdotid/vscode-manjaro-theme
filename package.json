@@ -29,29 +29,54 @@
   "contributes": {
     "themes": [
       {
-        "label": "Manjaro OneDark",
+        "label": "Manjaro OneDark Cool",
         "uiTheme": "vs-dark",
-        "path": "./themes/manjaro-onedark-color-theme.json"
+        "path": "./themes/manjaro-onedark-cool-color-theme.json"
       },
       {
-        "label": "Manjaro Owl",
+        "label": "Manjaro OneDark Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/manjaro-owl-color-theme.json"
+        "path": "./themes/manjaro-onedark-dark-color-theme.json"
       },
       {
-        "label": "Manjaro Nord",
+        "label": "Manjaro Owl Cool",
         "uiTheme": "vs-dark",
-        "path": "./themes/manjaro-nord-color-theme.json"
+        "path": "./themes/manjaro-owl-cool-color-theme.json"
       },
       {
-        "label": "Manjaro Tokyo",
+        "label": "Manjaro Owl Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/manjaro-tokyo-color-theme.json"
+        "path": "./themes/manjaro-owl-dark-color-theme.json"
       },
       {
-        "label": "Manjaro Halcyon",
+        "label": "Manjaro Nord Cool",
         "uiTheme": "vs-dark",
-        "path": "./themes/manjaro-halcyon-color-theme.json"
+        "path": "./themes/manjaro-nord-cool-color-theme.json"
+      },
+      {
+        "label": "Manjaro Nord Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manjaro-nord-dark-color-theme.json"
+      },
+      {
+        "label": "Manjaro Tokyo Cool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manjaro-tokyo-cool-color-theme.json"
+      },
+      {
+        "label": "Manjaro Tokyo Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manjaro-tokyo-dark-color-theme.json"
+      },
+      {
+        "label": "Manjaro Halcyon Cool",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manjaro-halcyon-cool-color-theme.json"
+      },
+      {
+        "label": "Manjaro Halcyon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manjaro-halcyon-dark-color-theme.json"
       }
     ]
   }
